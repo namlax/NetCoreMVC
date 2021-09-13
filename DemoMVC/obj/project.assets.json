@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_mã nguồn mở\\NetCore\\DemoMVC\\DemoMVC.csproj",
+      "projectUniqueName": "D:\\GitHub\\NetCoreMVC\\DemoMVC\\DemoMVC.csproj",
       "projectName": "DemoMVC",
-      "projectPath": "D:\\_mã nguồn mở\\NetCore\\DemoMVC\\DemoMVC.csproj",
+      "projectPath": "D:\\GitHub\\NetCoreMVC\\DemoMVC\\DemoMVC.csproj",
       "packagesPath": "C:\\Users\\Nam La\\.nuget\\packages\\",
-      "outputPath": "D:\\_mã nguồn mở\\NetCore\\DemoMVC\\obj\\",
+      "outputPath": "D:\\GitHub\\NetCoreMVC\\DemoMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nam La\\AppData\\Roaming\\NuGet\\NuGet.Config",
