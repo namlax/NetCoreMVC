@@ -11,27 +11,16 @@ namespace DemoMVC.Controllers
 {
     public class HelloWorldController : Controller
     {
-        private readonly ILogger<HelloWorldController> _logger;
-
-        public HelloWorldController(ILogger<HelloWorldController> logger)
-        {
-            _logger = logger;
-        }
-
         public IActionResult Index()
         {
             return View();
         }
-
-        public IActionResult Privacy()
+        public IActionResult GetName(string name, int runTime = 1)
         {
+            ViewData["Message"] = "Hello " + name;
+            ViewData["NumTimes"] = numTimes;
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
     }
 }

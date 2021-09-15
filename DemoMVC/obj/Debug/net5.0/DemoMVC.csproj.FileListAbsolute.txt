@@ -80,3 +80,5 @@ D:\GitHub\NetCoreMVC\DemoMVC\obj\Debug\net5.0\ref\DemoMVC.dll
 D:\GitHub\NetCoreMVC\DemoMVC\obj\Debug\net5.0\DemoMVC.pdb
 D:\GitHub\NetCoreMVC\DemoMVC\obj\Debug\net5.0\DemoMVC.genruntimeconfig.cache
 D:\GitHub\NetCoreMVC\DemoMVC\obj\Debug\net5.0\DemoMVC.csproj.CopyComplete
+D:\GitHub\NetCoreMVC\DemoMVC\obj\Debug\net5.0\Razor\Views\HelloWorld\GetName.cshtml.g.cs
+D:\GitHub\NetCoreMVC\DemoMVC\obj\Debug\net5.0\Razor\Views\HelloWorld\index.cshtml.g.cs
