@@ -15,7 +15,7 @@ namespace DemoMVC.Controllers
         {
             return View();
         }
-        public IActionResult GetName(string name, int runTime = 1)
+        public IActionResult GetName(string name, int numTimes = 1)
         {
             ViewData["Message"] = "Hello " + name;
             ViewData["NumTimes"] = numTimes;
