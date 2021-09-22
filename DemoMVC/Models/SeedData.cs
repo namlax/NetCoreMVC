@@ -4,7 +4,7 @@ using DemoMVC.Data;
 using System;
 using System.Linq;
 
-namespace DemoMVC.Models
+namespace DemoMVC.Data
 {
     public static class SeedData
     {

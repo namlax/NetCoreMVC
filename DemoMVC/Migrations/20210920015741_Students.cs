@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
+using DemoMVC.Data;
 
 namespace DemoMVC.Migrations
 {
